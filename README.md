@@ -1,1 +1,1 @@
-# odin-recipes
+# Essential recipes
